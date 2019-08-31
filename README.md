@@ -1,6 +1,4 @@
 # Simple-Setup-React-Native
-# Mukadimah React Native
-
 ### Intro
 Sebenarnya ada banyak pilihan ketika kita ingin membuat aplikasi mobile. Apabila kita ingin membuat aplikasi _Native_ (memakai bahasa yang spesifik untuk platform tertentu), contohnya :
 
